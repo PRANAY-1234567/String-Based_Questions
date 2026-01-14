@@ -1,6 +1,4 @@
-README
-Program Name
-
+Program Name - 
 Character Frequency Counter in Python
 
 Description
