@@ -20,6 +20,7 @@ The count is incremented by 1.
 Finally, the dictionary containing character frequencies is printed.
 
 Input
+
 s = "apple"
 
 Output
