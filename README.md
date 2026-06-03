@@ -45,3 +45,5 @@ Counting letters in a word or sentence
 Basic text analysis
 
 Learning dictionaries in Python
+
+<img width="570" height="658" alt="image" src="https://github.com/user-attachments/assets/29c8fb1d-84e5-4606-b4aa-35edf3cbf05a" />
