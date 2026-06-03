@@ -1,5 +1,4 @@
-Program Name - 
-Character Frequency Counter in Python
+Program Name - Character Frequency Counter in Python
 
 Description
 
